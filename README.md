@@ -279,6 +279,4 @@ For further information on this, see [Machine Learning model training with AKS](
 ## References
 
 - Microsoft 2020, accessed 2020-10-07,\
-  <https://azure.microsoft.com/en-us/services/kubernetes-service/#solution-architectures>
-- Microsoft 2020, accessed 2020-10-07,\
   <https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops>  
